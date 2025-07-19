@@ -1,0 +1,12 @@
+
+cypress/videos/
+cypress/screenshots/
+cypress/downloads/
+
+
+cypress.config.js
+cypress.config.ts
+cypress.env.json
+
+node_modules/
+package-lock.json
