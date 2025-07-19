@@ -6,7 +6,7 @@ on:
       - main # ou a branch principal do seu projeto, como 'master'
   pull_request:
     branches:
-      - main# ou a branch principal do seu projeto
+      - main
 
 jobs:
   cypress-run:
